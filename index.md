@@ -1,6 +1,6 @@
 # Index: Documentation Templates 
 
-![Coming soon](https://docs.bydanielrosehill.com/images/coming-soon.webp)
+ ![alt text](images/sloth-reading-newspaper.webp)
 
 This index page is part of **Daniel Rosehill's documentation repository** at [docs.bydanielrosehill.com](https://docs.bydanielrosehill.com).
 
